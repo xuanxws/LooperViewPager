@@ -1,6 +1,9 @@
 # LooperViewPager
 
   一个简单的无限Banner轮播
+  
+## 效果图展示
+ ![Mou icon](https://github.com/xuanxws/LooperViewPager/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
 ## 使用方法
 
